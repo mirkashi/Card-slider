@@ -7,4 +7,5 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-![preview img](/preview.png)
+
+![Screenshot (441)](https://github.com/mirkashi/Card-slider/assets/138784444/e1beb783-bcbc-418f-b924-19cdab207e7f)
